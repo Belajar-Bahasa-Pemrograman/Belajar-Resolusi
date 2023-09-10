@@ -4,8 +4,9 @@ Rencana Belajar
   * Bosstrap
   * Tailwind
 - Belajar Bahasa Pemrograman PHP
-  ^ Yii
-  ^ Symfony
+  ^ CodeIgniter
+  ^ Laravel
 - Belajar Bahasa Pemrograman Javascript
   ^ React
 - Belajar Hosting Web
+- Belajar Bahasa Python
