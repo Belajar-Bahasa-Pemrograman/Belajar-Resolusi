@@ -1,9 +1,11 @@
 Rencana Belajar
 
-- Memperdalam HTML
 - Belajar Framework CSS
   * Bosstrap
   * Tailwind
 - Belajar Bahasa Pemrograman PHP
+  ^ Yii
+  ^ Symfony
 - Belajar Bahasa Pemrograman Javascript
+  ^ React
 - Belajar Hosting Web
