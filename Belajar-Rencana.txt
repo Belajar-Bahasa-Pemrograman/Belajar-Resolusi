@@ -1,6 +1,5 @@
 Rencana Belajar
 
-- Memperdalam HTML
 - Belajar Framework CSS
   * Bosstrap
   * Tailwind
@@ -8,5 +7,6 @@ Rencana Belajar
   ^ CodeIgniter
   ^ Laravel
 - Belajar Bahasa Pemrograman Javascript
+  ^ React
 - Belajar Hosting Web
 - Belajar Bahasa Python
