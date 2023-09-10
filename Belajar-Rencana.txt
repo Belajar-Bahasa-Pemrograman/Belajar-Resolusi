@@ -1,6 +1,8 @@
 Rencana Belajar
 
 - Belajar Framework CSS
+  * Bosstrap
+  * Tailwind
 - Belajar Bahasa Pemrograman PHP
 - Belajar Bahasa Pemrograman Javascript
 - Belajar Hosting Web
