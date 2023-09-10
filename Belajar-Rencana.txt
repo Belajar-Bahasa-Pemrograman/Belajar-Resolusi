@@ -1,0 +1,6 @@
+Rencana Belajar
+
+- Belajar Framework CSS
+- Belajar Bahasa Pemrograman PHP
+- Belajar Bahasa Pemrograman Javascript
+- Belajar Hosting Web
