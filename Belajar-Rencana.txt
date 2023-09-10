@@ -5,5 +5,7 @@ Rencana Belajar
   * Bosstrap
   * Tailwind
 - Belajar Bahasa Pemrograman PHP
+  ^ Laravel
 - Belajar Bahasa Pemrograman Javascript
 - Belajar Hosting Web
+- Belajar Bahasa Python
